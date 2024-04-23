@@ -12,6 +12,7 @@ More IOS feature research
 
 ## Tested model
 Airpods Pro (1st gen)\
+Airpods Pro (2nd gen with USB C)\
 Airpods 3
 
 ## Tested Windows Version
