@@ -1,4 +1,4 @@
-# Airpod-Windows-Control
+# Airpods-Windows-Control
 Control Apple Airpods ANC and get battery status (1%) on Windows
 ![image](https://github.com/bho3538/Airpods-Windows-Control/assets/12496720/245ad7c5-6c32-4064-80ec-c263eb938378)
 
@@ -8,7 +8,6 @@ Get accurate battery status in 1% measure\
 Switch ANC status (off, on , transparenct mode)
 
 ## TODO
-Cleanup code and publish source code\
 More IOS feature research
 
 ## Tested model
